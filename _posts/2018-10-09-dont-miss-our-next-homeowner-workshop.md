@@ -29,6 +29,6 @@ And if you have already attended one of these events, I would still encourage yo
 
 {% include pullquote.html %}
 
-There is a lot of conflicting information out there about our market and about real estate in general. These workshops are designed to help you separate fact from fiction. We want to help you stay educated and up-to-date on all things related to local real estate. **If you’re interested in attending our next workshop, check out [www.klausteam.com](https://www.eventbrite.com/o/the-kenny-klaus-team-3350101698){: target="_blank"} for more information.**
+There is a lot of conflicting information out there about our market and about real estate in general. These workshops are designed to help you separate fact from fiction. We want to help you stay educated and up-to-date on all things related to local real estate. **If you’re interested in attending our next workshop, [click here](https://www.eventbrite.com/o/the-kenny-klaus-team-3350101698){: target="_blank"}&nbsp;for more information.**
 
 And, as always, if you have any other questions or would like to schedule a private consultation, feel free to give us a call or send us an email. We look forward to hearing from you soon.
