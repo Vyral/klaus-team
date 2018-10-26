@@ -33,6 +33,6 @@ In essence, this change simply means that sellers will need to be especially cog
 
 Overall, there’s a lot happening in our Arizona right now. Whether you’re looking to buy, sell, or invest, there are opportunities available right now for you, and our team would be happy to help you with any of these goals.
 
-Even if you aren’t ready to make a move immediately, we would still like to help you stay informed. We offer a number of great events, including our upcoming homeowner workshop, and we highly encourage you to come out and expand your knowledge of real estate. **You can find more information about our team and the events we offer by visiting our website:****[www.klausteam.com](https://www.klausteam.com/){: target="_blank"}.**
+Even if you aren’t ready to make a move immediately, we would still like to help you stay informed. We offer a number of great events, including our upcoming homeowner workshop, and we highly encourage you to come out and expand your knowledge of real estate. **You can find more information about our team and the events we offer by visiting our website:&nbsp;****[www.klausteam.com](https://www.klausteam.com/){: target="_blank"}.**
 
 If you have any other questions or would like more information, feel free to give us a call or send us an email. We look forward to hearing from you soon.
