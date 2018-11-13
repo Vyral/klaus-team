@@ -19,7 +19,6 @@ youtube_code: Meet Andi Ravenscroft
 ---
 
 {% include youtube.html %}
-
 Always give more!
 
 My clients are the source of everything I do. Always giving more and providing value through creating lasting relationships. It is an honor when clients become friends. I pride myself in being authentic by giving you the good, the bad, and ugly news with solutions through the entire process.
