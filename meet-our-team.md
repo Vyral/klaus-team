@@ -3,50 +3,41 @@ layout: default
 title: Meet Our Team
 permalink: /meet-our-team/
 ---
-layout: post
-title: Meet Andi Ravenscroft
-date:
-tags:
-  - Meet the Klaus Team
-excerpt:
-enclosure:
-pullquote:
-enclosure_type: video/mp4
-enclosure_time:
-use_youtube_image: false
-youtube_alternate_image: /uploads/andi-youtube.jpg
-youtube_code: OE02cMoQmmE
----
+<!-- blog feed -->
+      {% for post in paginator.posts %}
+			<div class="row content-container">
+				<!-- <div class="col-sm-12"> -->
+					<h2 class="post-overview-title"><a class="post-link" href="{{ post.url }}">{{ post.title | truncate: 70 }}</a></h2>
+					<!-- <span class="post-meta">
+						{{ post.date | date: "%b %-d, %Y" }}
+					</span> -->
+						<hr />
+					<!-- </div> -->
 
-{% include youtube.html %}
-Always give more!
+			    <ul class="post-list">
+      <li>
+        <div class="col-lg-6 post-image-container">
+          <div class="post-excerpts">
 
-My clients are the source of everything I do. Always giving more and providing value through creating lasting relationships. It is an honor when clients become friends. I pride myself in being authentic by giving you the good, the bad, and ugly news with solutions through the entire process.
 
-A house is a large investment that becomes a home with endless memories. Your time and goals are always a focus for me. As a professional, my role is to understand and study your interests to be in the strongest negotiating position possible. &nbsp;
-
-As a transplant to Arizona coming from South Dakota and Oregon, I appreciate the sun and the unique beautiful scenery it has to offer year-round. My background is in executive operations in senior living administration with a Bachelor’s Degree in Healthcare Business Administration from Oregon State University. That experience provides an understanding of unique business acumen and how to best support your goals with creativity. Outside of my real estate passion, I enjoy experiencing the world with my husband, Eric. In my off-time, I volunteer with the Ronald McDonald House Central and Northern Arizona Charities and local non-profits.
-
-Designations and Licenses
-
-https://www.linkedin.com/in/andi-ravenscroft-291b4466/
-
-Andi Ravenscroft
-
-Senior Real Estate Specialist
-
-Nursing Home Administrator - OR
-
-Klaus Team | Silver Group I&nbsp; Keller Williams Integrity First Realty
-
-Mobile:&nbsp;[480.825.4005](tel:480-825-4005){: target="_blank"}&nbsp;<br>Office:&nbsp;[480.354.7344](tel:480-354-7344){: target="_blank"}
-
-[Linkedin profile](https://www.linkedin.com/in/andi-ravenscroft-291b4466/){: target="_blank"}
-
-Home Search site:&nbsp;[https://andi.klausteam.com/](https://andi.klausteam.com/){: target="_blank"}
-
-Address: 2919 S Ellsworth Rd #133 Mesa AZ 85212
-
-Free senior living resources inquiry:&nbsp;[https://www.klausteam.com/silver/](https://www.klausteam.com/silver/){: target="_blank"}
-
-My business is built on your referrals!
+						<a href="{{post.url}}">
+	            {% if post.use_youtube_image == true %}
+	            <img src="https://img.youtube.com/vi/{{post.youtube_code | remove: 'https://youtu.be/' | remove: 'https://www.youtube.com/watch?v='}}/maxresdefault.jpg" alt="{{post.title}}" class="post-image" />
+	            {% else %}
+								{% if post.youtube_alternate_image != null %}
+	            		<img src="{{post.youtube_alternate_image}}" alt="{{post.title}}" class="post-image"/>
+								{% else %}
+									<img src="{{ site.data.settings.images.post_cover }}" alt="{{post.title}}" class="post-image"/>
+								{% endif %}
+	            {% endif %}
+	          </a>
+          </div>
+        </div>
+				<div class="col-lg-6">
+					{{ post.excerpt | strip_html | prepend: "<p class='excerpt'>" | append: "<p>" | truncate: 160 }}
+						<p class="readlink"><a href="{{post.url}}" class="readmore">Read More</a></p>
+				</div>
+      </li>
+		</ul>
+</div>
+      {% endfor %}
