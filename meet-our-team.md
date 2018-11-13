@@ -2,6 +2,7 @@
 layout: default
 title: Meet Our Team
 permalink: /meet-our-team/
+---
 layout: post
 title: Meet Andi Ravenscroft
 date:
