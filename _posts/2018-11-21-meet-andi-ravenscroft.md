@@ -26,21 +26,13 @@ A house is a large investment that becomes a home with endless memories. Your ti
 As a transplant to Arizona coming from South Dakota and Oregon, I appreciate the sun and the unique beautiful scenery it has to offer year-round. My background is in executive operations in senior living administration with a Bachelor’s Degree in Healthcare Business Administration from Oregon State University. That experience provides an understanding of unique business acumen and how to best support your goals with creativity. Outside of my real estate passion, I enjoy experiencing the world with my husband, Eric. In my off-time, I volunteer with the Ronald McDonald House Central and Northern Arizona Charities and local non-profits.
 
 **Andi Ravenscroft**
-
 Senior Real Estate Specialist
-
 Nursing Home Administrator - OR
-
 | Klaus Team | Silver Group I&nbsp; Keller Williams Integrity First Realty |
-
 Mobile:&nbsp;[480.825.4005](tel:480-825-4005){: target="_blank"}&nbsp;<br>Office:&nbsp;[480.354.7344](tel:480-354-7344){: target="_blank"}
-
 [Linkedin profile](https://www.linkedin.com/in/andi-ravenscroft-291b4466/){: target="_blank"}
-
 Home Search site:&nbsp;[https://andi.klausteam.com/](https://andi.klausteam.com/){: target="_blank"}
-
 Address: 2919 S Ellsworth Rd #133 Mesa AZ 85212
-
 Free senior living resources inquiry:&nbsp;[https://www.klausteam.com/silver/](https://www.klausteam.com/silver/){: target="_blank"}
 
 My business is built on your referrals!
