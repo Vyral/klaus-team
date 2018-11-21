@@ -28,7 +28,7 @@ As a transplant to Arizona coming from South Dakota and Oregon, I appreciate the
 **Andi Ravenscroft**<br>
 Senior Real Estate Specialist<br>
 Nursing Home Administrator - OR<br>
-| Klaus Team | Silver Group I&nbsp; Keller Williams Integrity First Realty<br>
+Klaus Team | Silver Group I&nbsp; Keller Williams Integrity First Realty<br>
 Mobile:&nbsp;[480.825.4005](tel:480-825-4005){: target="_blank"}&nbsp;<br>Office:&nbsp;[480.354.7344](tel:480-354-7344){: target="_blank"}<br>
 [Linkedin profile](https://www.linkedin.com/in/andi-ravenscroft-291b4466/){: target="_blank"}<br>
 Home Search site:&nbsp;[https://andi.klausteam.com/](https://andi.klausteam.com/){: target="_blank"}<br>
