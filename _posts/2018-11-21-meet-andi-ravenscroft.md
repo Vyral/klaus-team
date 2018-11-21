@@ -4,7 +4,7 @@ title: Meet Andi Ravenscroft
 date: 2018-11-21 17:22:00
 tags:
   - Our Agents
-excerpt:
+excerpt: Meet one of our fantastic team members!
 enclosure:
 pullquote:
 enclosure_type: video/mp4
