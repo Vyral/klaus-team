@@ -19,6 +19,7 @@ enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/just-in-time-youtube.jpg
 youtube_code: vTy1a8hSRqI
+hidden: false
 ---
 
 {% include youtube.html %}

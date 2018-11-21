@@ -17,6 +17,7 @@ enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/market-update-youtube.jpg
 youtube_code: pbgVUV3aUog
+hidden: false
 ---
 
 {% include youtube.html %}

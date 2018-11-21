@@ -17,6 +17,7 @@ enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/homeowner-workshop-youtube.jpg
 youtube_code: YFSRdF7y0r8
+hidden: false
 ---
 
 {% include youtube.html %}
