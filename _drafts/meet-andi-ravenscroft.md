@@ -3,7 +3,7 @@ layout: post
 title: Meet Andi Ravenscroft
 date:
 tags:
-  - Meet the Klaus Team
+  - Our Agents
 excerpt:
 enclosure:
 pullquote:
@@ -12,6 +12,7 @@ enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/andi-youtube.jpg
 youtube_code: Meet Andi Ravenscroft
+hidden: true
 ---
 
 {% include youtube.html %}
