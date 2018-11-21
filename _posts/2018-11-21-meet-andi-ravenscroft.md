@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Meet Andi Ravenscroft
-date: 2018-11-21 17:22:51
+date: 2018-11-21 17:22:00
 tags:
   - Our Agents
 excerpt:
@@ -11,7 +11,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/andi-youtube.jpg
-youtube_code: Meet Andi Ravenscroft
+youtube_code: OE02cMoQmmE
 hidden: true
 ---
 
@@ -25,7 +25,7 @@ A house is a large investment that becomes a home with endless memories. Your ti
 
 As a transplant to Arizona coming from South Dakota and Oregon, I appreciate the sun and the unique beautiful scenery it has to offer year-round. My background is in executive operations in senior living administration with a Bachelor’s Degree in Healthcare Business Administration from Oregon State University. That experience provides an understanding of unique business acumen and how to best support your goals with creativity. Outside of my real estate passion, I enjoy experiencing the world with my husband, Eric. In my off-time, I volunteer with the Ronald McDonald House Central and Northern Arizona Charities and local non-profits.
 
-Andi Ravenscroft
+**Andi Ravenscroft**
 
 Senior Real Estate Specialist
 
