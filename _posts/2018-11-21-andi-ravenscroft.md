@@ -4,7 +4,7 @@ title: Andi Ravenscroft
 date: 2018-11-21 17:22:00
 tags:
   - Our Agents
-excerpt: Meet Andi Ravenscroft
+excerpt: Meet Andi Ravenscroft!
 enclosure:
 pullquote:
 enclosure_type: video/mp4
