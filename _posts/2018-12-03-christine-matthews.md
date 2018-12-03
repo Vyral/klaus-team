@@ -4,7 +4,7 @@ title: Christine Matthews
 date: 2018-12-03 23:11:00
 tags:
   - Our Agents
-excerpt: Meet Christine Matthews!
+excerpt: Meet Christine Matthews - Realtor/Transaction Manager
 enclosure:
 pullquote:
 enclosure_type: video/mp4
