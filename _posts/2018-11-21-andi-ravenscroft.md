@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Meet Andi Ravenscroft
+title: Andi Ravenscroft
 date: 2018-11-21 17:22:00
 tags:
   - Our Agents
-excerpt: Meet one of our outstanding team members!
+excerpt: Meet Andi Ravenscroft
 enclosure:
 pullquote:
 enclosure_type: video/mp4
