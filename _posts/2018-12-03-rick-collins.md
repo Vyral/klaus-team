@@ -1,8 +1,9 @@
 ---
 layout: post
 title: Rick Collins
-date: 2018-12-03 23:20:59
+date: 2018-12-03 23:20:00
 tags:
+  - Our Agents
 excerpt: Meet Rick Collins - Buyer Agent
 enclosure:
 pullquote:
