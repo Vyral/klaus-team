@@ -24,7 +24,7 @@ Are we in a real estate bubble? I’m here to answer this question today.
 
 **We are certainly seeing changes in the market right now and things are shifting.** We saw interest rates increase several times this year, and we may see them increase three more times in 2019. However, let’s keep things in perspective. Right now, rates are right around 5% on average. From 2009 to 2011, they were over 6%.
 
-**Overall, the housing market has continued to be solid.** We’re seeing a bit of a slowdown, to be sure, and a slight decrease in home appreciation. That’s not necessarily a bad thing, however. There are still more people moving here than are moving away. Things are changing, but we’re definitely not in a bubble.
+**Overall, the housing market has continued to be solid.** We’re seeing a bit of a slowdown, to be sure, and a slight decrease in home appreciation. That’s not necessarily a bad thing, however. There are still more people moving here than there are moving away. Things are changing, but we’re definitely not in a bubble.
 
 {% include pullquote.html %}
 
