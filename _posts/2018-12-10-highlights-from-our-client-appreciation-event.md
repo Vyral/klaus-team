@@ -1,8 +1,9 @@
 ---
 layout: post
 title: Highlights From Our Client Appreciation Event
-date: 2018-12-10 20:11:43
+date: 2018-12-10 20:11:00
 tags:
+  - Events
 excerpt: >-
   Every year, the Klaus Team celebrates our clients and their families by
   renting out a theatre at the Harkins Superstition 25 movie theatre.
@@ -31,5 +32,3 @@ Attached are some photos from the event.
 ![](/uploads/santa-nikki--kenny.jpg)
 
 ![](/uploads/santa-kraig--kenny.jpg)
-
-&nbsp;
