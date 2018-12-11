@@ -17,6 +17,8 @@ youtube_code: It-A0atQLCE
 hidden: true
 ---
 
+{% include youtube.html %}
+
 We had a blast on December 1 when we invited our past clients to join us and our special guest, Santa Claus, to a private screening of the #1 movie in America, "Ralph Breaks the Internet." We hope to see you at our next event!
 
 Attached are some photos from the event.
