@@ -31,4 +31,4 @@ Attached are some photos from the event.
 <br><br>
 <img src="/uploads/santa-nikki--kenny.jpg" class="half-image">
 <br><br>
-<img src="/uploads/santa-kraig--kenny" class="half-image">
+<img src="/uploads/santa-kraig--kenny.jpg" class="half-image">
