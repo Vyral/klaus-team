@@ -25,10 +25,10 @@ With some help from our vendors and business partners, the Klaus Team awarded ou
 
 Attached are some photos from the event.
 
-![](/uploads/movie.jpg)
-
-![](/uploads/ktc-pic-movie-event.jpg)
-
-![](/uploads/santa-nikki--kenny.jpg)
-
-![](/uploads/santa-kraig--kenny.jpg)
+<img src="/uploads/movie.jpg" class="post-image">
+<br><br>
+<img src="/uploads/ktc-pic-movie-event.jpg" class="post-image">
+<br><br>
+<img src="/uploads/santa-nikki--kenny.jpg" class="half-image">
+<br><br>
+<img src="/uploads/santa-kraig--kenny" class="half-image">
