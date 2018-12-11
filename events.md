@@ -7,13 +7,12 @@ tags:
 ---
 {% for post in site.tags["Events"] %}
   <div class="row content-container">
-    <!-- <div class="col-sm-12"> -->
       <h2 class="post-overview-title"><a class="post-link" href="{{ post.url }}">{{ post.title | truncate: 70 }}</a></h2>
       <!-- <span class="post-meta">
         {{ post.date | date: "%b %-d, %Y" }}
       </span> -->
         <hr />
-      <!-- </div> -->
+
 
       <ul class="post-list">
   <li>
@@ -37,8 +36,4 @@ tags:
     <div class="col-lg-6">
       {{ post.excerpt | strip_html | prepend: "<p class='excerpt'>" | append: "<p>" | truncate: 160 }}
         <p class="readlink"><a href="{{post.url}}" class="readmore">Read More</a></p>
-    </div>
-  </li>
-  </ul>
-  </div>
 {% endfor %}
