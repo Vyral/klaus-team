@@ -23,4 +23,4 @@ We had a blast on December 1 when we invited our past clients to join us and our
 
 Attached are some photos from the event.
 
-![](/uploads/movie.jpg){: .post-image}<br><br>![](/uploads/ktc-pic-movie-event.jpg){: .post-image}<br><br>![](/uploads/santa-nikki--kenny.jpg){: .half-image}<br><br>![](/uploads/santa-kraig--kenny.jpg){: .half-image}
+![](/uploads/ktc-pic-movie-event.jpg){: .post-image}<br><br>![](/uploads/santa-nikki--kenny.jpg){: .half-image}<br><br>![](/uploads/santa-kraig--kenny.jpg){: .half-image}
