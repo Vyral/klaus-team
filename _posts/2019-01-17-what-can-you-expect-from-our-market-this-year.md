@@ -24,7 +24,7 @@ Right now, we’re seeing a bit of a slowdown in the market. That's normal for t
 
 {% include pullquote.html %}
 
-Here’s an interesting thought: The interest rate for renters is 100%. Keep that in mind that next time you think interest rates are too high for you to buy. If you’re interested in buying or investing in a home, there’s an extremely good opportunity out there with a strong rental market.
+Here’s an interesting thought: The interest rate for renters is 100%. Keep that in mind the next time you think interest rates are too high for you to buy. If you’re interested in buying or investing in a home, there’s an extremely good opportunity out there with a strong rental market.
 
 **We anticipate 2019 to be a good, solid year without anything too crazy in the market.** A nice, steady market is healthy for all of us. Of course homeowners want prices to keep going up like crazy, but a nice, steady increase is good for the long term.
 
