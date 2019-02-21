@@ -26,7 +26,7 @@ For one thing, the number of sales has dropped slightly from what we observed at
 
 {% include pullquote.html %}
 
-There’s good news for buyers, too. **With increased inventory comes increased choice,** meaning you are more likely to find your perfect home now than would have been in the recent past. Also, as long as interest rates remain favorable, affordability will still remain comparatively high.
+There’s good news for buyers, too. **With increased inventory comes increased choice,** meaning you are more likely to find your perfect home now than you would have been in the recent past. Also, as long as interest rates remain favorable, affordability will still remain comparatively high.
 
 The bottom line is that we’re currently experiencing a strong, well-balanced market that favors buyers and sellers alike.
 
