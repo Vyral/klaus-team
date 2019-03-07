@@ -24,9 +24,11 @@ There are a lot of renovation mistakes we tend to see homeowners make in our mar
 
 **Here are some mistakes homeowners make:**
 
-1. **Spending the money in the wrong places.** You want to ensure you receive a good return on your investment, but not all improvements will put money back in your pocket.
-2. **Making uncommon improvements.** If your improvement isn’t exactly on most homeowners’ wishlists, it won’t do anything to make your home stand out on the market.
-3. **Not calling us first.** You don’t have to be buying or selling, but planning big renovations without the advice of a professional agent is a great way to meet bad outcomes.
+**1. Spending the money in the wrong places.** You want to ensure you receive a good return on your investment, but not all improvements will put money back in your pocket.
+
+**2. Making uncommon improvements.** If your improvement isn’t exactly on most homeowners’ wishlists, it won’t do anything to make your home stand out on the market.
+
+**3. Not calling us first.** You don’t have to be buying or selling, but planning big renovations without the advice of a professional agent is a great way to meet bad outcomes.
 
 {% include pullquote.html %}
 
