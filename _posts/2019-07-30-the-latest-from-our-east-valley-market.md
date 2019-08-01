@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/homebot-market-update-youtube.jpg
-youtube_code: uV614a2qhwc
+youtube_code: GPfS02-dMs0
 hidden: false
 ---
 
