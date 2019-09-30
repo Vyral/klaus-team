@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why Are We so Excited About the Trade War?
-date: 2019-09-27 17:49:02
+date: 2019-09-27 17:49:00
 tags:
   - Home Buyer Tips
 excerpt: >-
@@ -32,7 +32,7 @@ While rates have dropped, the local economy is booming. **Arizona has the fourth
 
 The rates we’re seeing today are the lowest we’ve seen since the end of 2017 and goes against everything experts thought we were going to see.&nbsp;
 
-**For homeowners, rates spell lower payments and lower cost of interest over the life of a loan.** For buyers, rates can make a significant impact on affordability. A difference between a 4% and 5% rate per month is over $160.
+**For homeowners, rates spell lower payments and lower cost of interest over the life of a loan.** For buyers, rates can make a significant impact on affordability. A difference between a 4% and a 5% rate per month is over $160.
 
 Lower rates also help buyers increase their purchasing power, allowing them to afford more of a home than they could have when rates were higher. **The past few years have created great opportunities for homebuyers and homeowners to buy or refinance,** and our friend Steve Farmington at Loan Depot would love to help you out.
 
