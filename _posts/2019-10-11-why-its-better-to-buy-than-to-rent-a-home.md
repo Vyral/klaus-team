@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why It’s Better to Buy Than to Rent a Home
-date: 2019-10-11 17:06:40
+date: 2019-10-11 17:06:00
 tags:
   - Home Buyer Tips
 excerpt: 'Renters should think about becoming homeowners soon, and here’s why.'
