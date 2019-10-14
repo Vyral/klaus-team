@@ -8,7 +8,7 @@ excerpt: 'Renters should think about becoming homeowners soon, and here’s why.
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Kenny+Klaus/Videos/Why+Its+Better+to+Buy+Than+to+Rent+a+Home.mp4
 pullquote: >-
-  44% say the biggest reason why they don’t own a home is because they lack the
+  44% say the biggest reason why they don’t own a home is that they lack the
   money for a down payment.
 enclosure_type: video/mp4
 enclosure_time:
@@ -34,7 +34,7 @@ The benefits go beyond money. Research shows homeowners have better health, volu
 
 Homeowners receive tax benefits due to interest expenses, and they can also include capital gains due to home appreciation. CPA Mark Weech explains that homeowners may receive tax deductions because of interest and property tax. Renters, however, cannot receive these deductions.
 
-**Currently, 44% of Americans believe you need a 20% down payment to buy a home.** In addition, 44% say the biggest reason why they don’t own a home is because they lack the money for a down payment. Steve Farrington of Loan Depot explains that the 20% down payment is a myth. Conventional programs let you put as little as 3% down, and FHA programs are at 3.5% down. The VA loan has no down payment requirement. On top of these, there are down payment assistance programs as well.
+**Currently, 44% of Americans believe you need a 20% down payment to buy a home.** In addition, 44% say the biggest reason why they don’t own a home is that they lack the money for a down payment. Steve Farrington of Loan Depot explains that the 20% down payment is a myth. Conventional programs let you put as little as 3% down, and FHA programs are at 3.5% down. The VA loan has no down payment requirement. On top of these, there are down payment assistance programs as well.
 
 Nationwide, the average down payment is around 5.3%. Arizona’s average is higher, sitting around 15.78%. This is because our homes cost less when compared to other states. If someone pays less than 20% for a down payment, they must pay for mortgage insurance.&nbsp;
 
