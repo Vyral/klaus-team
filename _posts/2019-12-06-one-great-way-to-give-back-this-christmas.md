@@ -1,7 +1,7 @@
 ---
 layout: post
 title: One Great Way to Give Back This Christmas
-date: 2019-12-06 15:11:20
+date: 2019-12-06 15:11:00
 tags:
   - Events
 excerpt: >-
@@ -19,4 +19,4 @@ hidden: true
 
 {% include youtube.html %}
 
-We’d love for your help this year with our Klaus Team Cares partnership with Children's Gift for the Holidays. These kids are in our own backyard and need help. Last year, we were able to help over 70 kids wake up with a tree full of presents on Christmas morning. If you’re interested in participating, you can do so at **[klausteamcares.org](https://klausteamcares.org/){: target="_blank"}** or stop by our office and see us in person.
+We’d love for your help this year as Klaus Team Cares works to provide children's gifts for the Holidays. These kids are in our own backyard and need help. Last year, we were able to help over 70 kids wake up with a tree full of presents on Christmas morning. If you’re interested in participating, you can do so at **[klausteamcares.org](https://klausteamcares.org/){: target="_blank"}** or stop by our office and see us in person.
