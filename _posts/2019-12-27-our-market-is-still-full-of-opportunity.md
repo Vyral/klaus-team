@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Our Market Is Still Full of Opportunity
-date: 2019-12-27 22:53:35
+date: 2019-12-27 22:53:00
 tags:
   - Market Update
 excerpt: >-
@@ -22,7 +22,7 @@ hidden: false
 
 Trends in our market have been favorable overall in 2019, and we expect that to continue throughout 2020 and beyond for multiple reasons:
 
-* Inventory is still low, so sellers are finding some great opportunities and nice appreciation rate.
+* Inventory is still low, so sellers are finding some great opportunities and a nice appreciation rate.
 * There are still properties out there for buyers.
 * Interest rates are very low, meaning home affordability is up.
 * Due to rising rents, the market is stable. People won’t soon walk away from their properties like they did back in 2008.
