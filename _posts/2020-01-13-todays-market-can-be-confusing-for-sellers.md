@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Today’s Market Can Be Confusing for Sellers
-date: 2020-01-13 22:46:05
+date: 2020-01-13 22:46:00
 tags:
   - Home Seller Tips
 excerpt: >-
@@ -22,7 +22,7 @@ hidden: false
 
 {% include youtube.html %}
 
-If you’re confused about selling in today’s market, don’t worry. Real estate can be confusing for even the most experienced agents.&nbsp;
+If you’re confused about selling your home in today’s market, don’t worry—real estate can be confusing for even the most experienced agents.&nbsp;
 
 As a real estate professional, however, I spend my days researching all the options available for my clients. **This helps me discover effective solutions for any and all of your buying or selling needs.**&nbsp;
 
