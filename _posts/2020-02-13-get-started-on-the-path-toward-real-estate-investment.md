@@ -24,7 +24,7 @@ hidden: false
 
 Several months ago, I was having lunch with a friend when our conversation headed to the same place most of my conversations end up: real estate. I found out that one item on their bucket list was to own an investment property.&nbsp;
 
-This was interesting to me, because I remember buying my first investment property. Having someone else pay off your mortgage while you gain equity and cash flow is truly a financial marvel. As we continued to talk, I found out that they were able to buy a property sooner than they thought.&nbsp;
+This was interesting to me because I remember buying my first investment property. Having someone else pay off your mortgage while you gain equity and cash flow is truly a financial marvel. As we continued to talk, I found out that they were able to buy a property sooner than they thought.&nbsp;
 
 {% include pullquote.html %}
 
