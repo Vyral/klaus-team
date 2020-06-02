@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Latest From Our Market
-date: 2020-06-01 18:28:36
+date: 2020-06-01 18:28:00
 tags:
   - Market Update
 excerpt: 'After a brief lull, things have picked back up in our market.'
@@ -20,7 +20,7 @@ hidden: false
 
 If you’re wondering how our Arizona real estate market is doing, I have good news: **After a bit of a lull, things are starting to pick up again.&nbsp;**
 
-Despite everything that’s happened since the COVID-19 lockdown, we’ve seen an increase in activity and continue to see home values appreciate, much of which has been driven by historically low interest rates.&nbsp;
+Despite everything that’s happened since the COVID-19 lockdown, we’ve seen an increase in activity (much of which has been driven by historically low interest rates) and continue to see home values appreciate, much of which has been driven by historically low interest rates.&nbsp;
 
 This situation reminds some people of the housing market crash of 2008 and 2009, but there are a few key statistics that illustrate the difference between now and then. First of all, 58.7% of all homes in America have at least 60% equity—**the growth of home prices nationwide has helped the market stay stable.** Secondly, 42% of all homes are owned free and clear, which means those homeowners don’t have to sell no matter what happens to the market.&nbsp;
 
