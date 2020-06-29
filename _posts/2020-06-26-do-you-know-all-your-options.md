@@ -9,7 +9,7 @@ excerpt: >-
   Whether you’re a buyer or seller, you have plenty of options to achieve your
   goals.
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Kenny+Klaus/Videos/Buying+%26+Selling+Options.mp4
+  https://vyralmarketing.s3.amazonaws.com/Kenny+Klaus/Videos/Do+You+Know+All+Your+Options%3F.mp4
 pullquote: >-
   Not everyone fits into the same program, so we’d be happy to schedule you a
   no-hassle consultation so you understand your options.
