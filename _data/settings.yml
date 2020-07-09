@@ -42,7 +42,7 @@ CTAs:
   first_CTA_text: Home Valuation
   first_CTA_URL: 'https://kennysgottheoffers.com/valuation/'
   second_CTA_text: Home Search
-  second_CTA_URL: 'http://azhomechoice.com'
+  second_CTA_URL: 'https://www.klausteam.com/'
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/004.jpg
     CTA_title: What’s Your -- MARKET -- Home Worth?
