@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Q: How Are We Helping Clients in This Difficult Time?'
-date: 2020-08-28 19:08:02
+date: 2020-08-28 19:08:00
 tags:
   - Home Buyer Tips
   - Home Seller Tips
@@ -29,4 +29,4 @@ Are you thinking about making a move, but overwhelmed because your current home 
 
 We’d love to share more about his amazing program with you, so feel free to contact us for a no-hassle consultation to see if it’s a good fit. Several of our clients and their friends have already taken advantage of this. With today’s crazy low interest rates, it’s a great time to upgrade into a more accommodating property; perhaps it’s time to find a home with a space that can be your dedicated ‘Zoom room,’ or one with a larger backyard or in-ground pool.&nbsp;
 
-**[Click here for more information on our Buy Then Sell program.](https://kennysgottheoffers.com/sell-now-move-later/){: target="_blank" rel="noopener"}** Don’t hesitate to give us a call or send an email our way; **let’s schedule a brief, one-on-one video call to explore how this program could help you achieve your real estate goals.** We’re always here to help, and we’d love to hear from you soon\!
+**[Click here for more information on our Buy Then Sell program.](https://www.klausteam.com/buy-then-sell/){: target="_blank" rel="noopener"}** Don’t hesitate to give us a call or send an email our way; **let’s schedule a brief, one-on-one video call to explore how this program could help you achieve your real estate goals.** We’re always here to help, and we’d love to hear from you soon\!
