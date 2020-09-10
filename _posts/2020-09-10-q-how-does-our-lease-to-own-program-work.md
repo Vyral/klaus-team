@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Q: How Does Our Lease to Own Program Work?'
+title: 'Q: How Does Our Lease To Own Program Work?'
 date: 2020-09-10 20:09:00
 tags:
   - Home Buyer Tips
