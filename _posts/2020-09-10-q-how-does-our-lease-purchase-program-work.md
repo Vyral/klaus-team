@@ -4,7 +4,7 @@ title: 'Q: How Does Our Lease Purchase Program Work?'
 date: 2020-09-10 20:09:00
 tags:
   - Home Buyer Tips
-excerpt: Here’s how our lease purchase program could be the answer you need.
+excerpt: Here’s how our Lease to Own program could be the answer you need.
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Kenny+Klaus/Videos/Q-+How+Does+Our+Lease+Purchase+Program+Work_.mp4
 pullquote: >-
