@@ -26,7 +26,7 @@ What’s awesome about our program is that it allows you to go out and look at h
 
 {% include pullquote.html %}
 
-**This could be a great opportunity for someone who's currently paying off*****someone else’s \*\****mortgage in the form of demoralizing rent payments.\*\* If you’re a parent who has kids who are renting at the moment, this program could be a wonderful first step for them. We'd be more than happy to set up a consultation and explain how their living expenses can start working for them. Follow the links on this blog and contact us right away for more information.&nbsp;
+**This could be a great opportunity for someone who's currently paying off&nbsp;*****someone else’s*mortgage in the form of demoralizing rent payments.**&nbsp;If you’re a parent who has kids who are renting at the moment, this program could be a wonderful first step for them. We'd be more than happy to set up a consultation and explain how their living expenses can start working for them. Follow the links on this blog and contact us right away for more information.&nbsp;
 
 Why not reach out for a no-hassle consultation to see if this is a good fit for you or your loved ones? Being a homeowner is a great feeling, and that’s why we want to leverage all of our tools and expertise to provide folks with a path toward homeownership.&nbsp;
 
