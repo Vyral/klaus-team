@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Q: Have You Heard About Homebot?'
-date: 2020-11-18 21:50:59
+date: 2020-11-18 21:50:00
 tags:
   - Home Buyer Tips
 excerpt: Here’s how Homebot can help you make knowledgeable home finance decisions.
@@ -20,12 +20,12 @@ hidden: false
 
 Did you know that 83% of the average American’s wealth at retirement comes from home equity and not other investments? This means that **making** **smart home finance decisions over the life cycle of homeownership is the key to building long-term wealth.** How can you ensure you’re making the right decisions at the right time? Allow us to introduce you to Homebot, a personalized dashboard that helps homeowners build wealth by making smart and timely home finance decisions.&nbsp;
 
-Every month, Homebot automatically sends you an easy-to-read home overview that tracks your home value, loans, equity, and your local real estate market conditions. It provides information like when to remodel, refinance, buy, and sell. It’s like a report card for your house. Homebot even helps you calculate the financial impact of a short-term rental on Airbnb.&nbsp;
+Every month, Homebot automatically sends you an easy-to-read home overview that tracks your home value, loans, equity, and your local real estate market conditions. It provides information like when to remodel, refinance, buy, and sell. It’s like a report card for your house. Homebot even helps you calculate the financial impact of converting a property into a short-term rental on Airbnb.
 
 {% include pullquote.html %}
 
 **U.S. homeowners leave over $100 billion of wealth on the table each year by making poor home finance decisions.** The constant fluctuation of real estate markets makes these decisions challenging. That’s why Homebot makes decisions simple, customizing the experience to your market and situation. It empowers you with the knowledge you need to build wealth.&nbsp;
 
-Thanks to the Klaus Team, Homebot is 100% free to homeowners\! You can even share it with your friends, family, and social sphere.&nbsp;
+Thanks to the Klaus Team, **[Homebot is 100% free to homeowners\!](https://www.klausteam.com/homebot/){: target="_blank" rel="noopener"}** You can even share it with your friends, family, and social sphere.&nbsp;
 
 If you have any questions about Homebot or real estate in general, call or email us. We at the Klaus Team would love to help with whatever you need.
