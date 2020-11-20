@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Q: Have You Heard About Homebot?'
+title: Are You Using the Homebot Tool?
 date: 2020-11-18 21:50:00
 tags:
   - Home Buyer Tips
