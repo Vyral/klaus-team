@@ -1,12 +1,13 @@
 ---
 layout: post
 title: 'Q: Why Is Now the Perfect Time to Sell?'
-date: 2021-01-12 00:03:27
+date: 2021-01-12 00:03:00
 tags:
   - Home Seller Tips
   - Market Update
 excerpt: Here’s why now is an excellent time to sell in our real estate market.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Kenny+Klaus/Videos/Q_+Why+Is+Now+the+Perfect+Time+to+Sell_.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
