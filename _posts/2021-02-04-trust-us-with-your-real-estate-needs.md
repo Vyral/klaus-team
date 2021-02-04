@@ -1,12 +1,13 @@
 ---
 layout: post
 title: Trust Us With Your Real Estate Needs
-date: 2021-02-04 22:00:15
+date: 2021-02-04 22:00:00
 tags:
   - Home Buyer Tips
   - Home Seller Tips
 excerpt: We’re your source for reliable real estate information and assistance.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Kenny+Klaus/Videos/Trust+Us+With+Your+Real+Estate+Needs.mp4
 pullquote: We’re always here as your trusted source in real estate.
 enclosure_type: video/mp4
 enclosure_time:
