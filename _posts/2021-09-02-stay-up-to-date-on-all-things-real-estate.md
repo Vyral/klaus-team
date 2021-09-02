@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Check Out Our New Homeowner Podcast
+title: Stay Up to Date on All Things Real Estate
 date: 2021-09-02 20:53:20
 tags:
   - Real Estate
 excerpt: Today I have an exciting announcement!
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Kenny+Klaus/Videos/Check+Out+Our+New+Homeowner+Podcast.mp4
+  https://vyralmarketing.s3.amazonaws.com/Kenny+Klaus/Videos/Stay+Up+to+Date+on+All+Things+Real+Estate.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
@@ -17,7 +17,7 @@ hidden: false
 ---
 {% include youtube.html %}
 
-In our continuing effort to bring value to the trusted people in our network and to help you stay on top of everything that’s happening in our market, **we’ve started a podcast called the**[**State 48 Homeowner Podcast**](https://state48homeowner.com/){: target="_blank" rel="noopener"}**.**
+In our continuing effort to bring value to the trusted people in our network and to help you stay on top of everything that’s happening in our market, **we’ve started a podcast called the&nbsp;**[**State 48 Homeowner Podcast**](https://state48homeowner.com/){: target="_blank" rel="noopener"}**.**
 
 There, you can not only find out what’s going on in the real estate industry at large, but also get home maintenance tips, advice about mortgages, and information about how to maintain your home’s value for the future. You can simply scroll through the database of our shows and pick one that strikes your interest. Feel free to share with your friends and family, too\!
 
