@@ -5,7 +5,8 @@ date: 2021-09-02 20:53:20
 tags:
   - Real Estate
 excerpt: Today I have an exciting announcement!
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Kenny+Klaus/Videos/Check+Out+Our+New+Homeowner+Podcast.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
