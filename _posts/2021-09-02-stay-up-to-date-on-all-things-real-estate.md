@@ -19,9 +19,7 @@ hidden: false
 
 In our continuing effort to bring value to the trusted people in our network and to help you stay on top of everything that’s happening in our market, **we’ve started a podcast called the&nbsp;**[**State 48 Homeowner Podcast**](https://state48homeowner.com/){: target="_blank" rel="noopener"}**.**
 
-There, you can not only find out what’s going on in the real estate industry at large, but also get home maintenance tips, advice about mortgages, and information about how to maintain your home’s value for the future. You can simply scroll through the database of our shows and pick one that strikes your interest. Feel free to share with your friends and family, too\!
-
-{% include pullquote.html %}
+There, you can not only find out what’s going on in the real estate industry at large but also get home maintenance tips, advice about mortgages, and information about how to maintain your home’s value for the future. You can scroll through our database of shows and pick one that strikes your interest. Feel free to share with your friends and family, too\!
 
 The market is always changing, but the media that report on it are often weeks or months behind what’s going on in real-time, so **the State 48 Homeowner Podcast is just one way to stay on top of all things real estate.**
 
