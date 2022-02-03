@@ -60,8 +60,8 @@ second_sidebar_CTA:
 lender:
   show_section: true
   header_text: Featured Lender
-  headshot_path: /img/lenderlogo.png
-  logo_path: /uploads/22df45afa7321c3a4164949a-870x128.png
+  headshot_path: /uploads/22df45afa7321c3a4164949a-870x128.png
+  logo_path: /img/lenderlogo.png
   logo_path_2: 
   name: Steve Farrington
   brand: NMLS '#61852, Company NMLS #3029'
