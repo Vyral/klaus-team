@@ -16,7 +16,7 @@
 		{{site.data.settings.lender.license_number2}}<br>
 		{{site.data.settings.lender.phone}}<br>
 		{{site.data.settings.lender.email}}<br>
-		{{site.data.settings.lender.url | remove: 'http://'}}
+		<a href="{{ site.data.settings.lender.url }}" target="_blank">{{site.data.settings.lender.url | remove: 'http://'}}</a><br />
 	</p>
 	</div>
 	<div class="lender-logo">
