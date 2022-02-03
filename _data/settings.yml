@@ -61,10 +61,10 @@ lender:
   show_section: true
   header_text: Featured Lender
   headshot_path: /uploads/b93ae50d0009767ad4e2b2f1-408x510.jpg
-  logo_path: /uploads/22df45afa7321c3a4164949a-870x128.png
-  logo_path_2:
+  logo_path: 
+  logo_path_2: /uploads/22df45afa7321c3a4164949a-870x128.png
   name: Steve Farrington
-  brand: 'NMLS #61852, Company NMLS #3029  '
+  brand: NMLS #61852, Company NMLS #3029
   phone: (480) 215-5590
   email: steve.farrington@myccmortgage.com
   url: https://crosscountrymortgage.com/Gaylord-Hansen-Team/Steven-Farrington/
