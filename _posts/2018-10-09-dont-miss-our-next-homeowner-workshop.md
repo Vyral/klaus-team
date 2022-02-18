@@ -19,8 +19,9 @@ youtube_alternate_image: /uploads/homeowner-workshop-youtube.jpg
 youtube_code: YFSRdF7y0r8
 hidden: false
 ---
-
 {% include youtube.html %}
+
+{% include excerpt.html %}
 
 Our recent homeowner workshops have been massively successful, and it’s been very interesting to see the responses of those who have attended.
 
