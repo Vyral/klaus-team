@@ -15,4 +15,6 @@ hidden: false
 ---
 {% include youtube.html %}
 
+{% include excerpt.html %}
+
 {% include pullquote.html %}
