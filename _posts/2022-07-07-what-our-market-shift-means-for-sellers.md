@@ -20,7 +20,7 @@ hidden: false
 
 Are you thinking of selling your home? Our market conditions have changed rapidly, and if you’re preparing your home using yesterday’s logic, it could cost you. Today I want to discuss our new market conditions and how you can still get a great deal.&nbsp;
 
-I was inspired to talk about this topic because my wife and I recently sold our home of 21 years. We learned a lot from the experience; for example, **you can’t just throw a for-sale sign in your yard and expect to get top dollar anymore.** Our home had seen a lot of wear and tear, so we needed to put a lot into it to get it ready for the market. We ended up spending about $22,000 on upgrades and repairs.
+I was inspired to talk about this topic because my wife and I recently sold our home of 21 years. We learned a lot from the experience; for example, **you can’t just throw a for-sale sign in your yard and expect to get top dollar anymore.** Our home had seen a lot of wear and tear, so we needed to put a lot into it to get it ready for the market. We ended up spending about $22,000 on upgrades and repairs.<br>&nbsp;
 
 {% include pullquote.html %}<br><br>Why have conditions changed? Interest rates are going up, and inventory is increasing as a result. With lower demand and higher supply, buyers can be pickier about which homes they choose. That being said, our market is still strong. People all over the country are still moving to Arizona, so **you can still get the most money possible out of your home.** However, you’ll need an experienced team to help guide you through our changing market.&nbsp;
 
