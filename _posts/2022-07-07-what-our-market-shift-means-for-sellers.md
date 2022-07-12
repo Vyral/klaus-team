@@ -11,7 +11,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/selling-in-todays-market-klaus-yt.jpg
-youtube_code: bGYBwATXKq0
+youtube_code: inXkuK6KCGU
 hidden: false
 ---
 {% include youtube.html %}
