@@ -5,7 +5,8 @@ date: 2022-07-07 20:44:28
 tags:
   - Home Seller Tips
 excerpt: 'Our market is changing, but you can still get a great deal for your home. '
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Kenny+Klaus/Videos/2022/Klaus+Team_Selling+in+Today's+Market.mp4
 pullquote: Our market is still strong.
 enclosure_type: video/mp4
 enclosure_time:
