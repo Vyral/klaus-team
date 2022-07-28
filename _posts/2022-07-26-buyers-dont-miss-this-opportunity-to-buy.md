@@ -24,4 +24,4 @@ Currently, buyers have a better chance to purchase the homes they want since **s
 
 No one can predict what interest rates will look like next year, but we have some programs to help people buy a home in the Phoenix market. Now is still a good time to buy because more options are becoming available, such as new construction and resale homes. Our different programs will help you take advantage of this opportunity. We also have a lease purchase program that lets you lease a home until you can buy that property.&nbsp;
 
-Whatever you decide, we will be there to guide you throughout your home-buying process. If you like more information about our programs or have any real estate questions, don’t hesitate to call or email me or our team. We’ll be happy to help\!
+Whatever you decide, we will be there to guide you throughout your home-buying process. If you'd like more information about our programs or have any real estate questions, don’t hesitate to call or email me or our team. We’ll be happy to help\!
