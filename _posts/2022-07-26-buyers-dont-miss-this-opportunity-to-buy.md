@@ -5,7 +5,8 @@ date: 2022-07-26 19:50:43
 tags:
   - Real Estate
 excerpt: 'It’s a good time to buy. We have programs to help you purchase your home. '
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Kenny+Klaus/Videos/2022/Klaus+Team_Buying+in+Today's+Market.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
