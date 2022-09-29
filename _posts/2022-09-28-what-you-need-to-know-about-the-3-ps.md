@@ -4,7 +4,8 @@ title: 'What You Need To Know About the 3 Ps '
 date: 2022-09-28 01:00:00
 tags:
 excerpt: The three Ps of real estate will help you sell quickly and for top dollar.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Kenny+Klaus/Videos/2022/3+Ways+To+Sell+Your+Home.mp4
 pullquote: >-
   You need to work with a real estate expert who’s worked in a challenging
   market before
