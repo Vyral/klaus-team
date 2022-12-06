@@ -10,7 +10,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/klaus12-5yt.jpg
-youtube_code: '-cZGyj7KQ90'
+youtube_code: 6fuP8ViBir0
 hidden: false
 ---
 {% include youtube.html %}
