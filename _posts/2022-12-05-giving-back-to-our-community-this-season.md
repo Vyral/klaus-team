@@ -4,7 +4,8 @@ title: Giving Back to Our Community This Season
 date: 2022-12-05 05:00:00
 tags:
 excerpt: You can help us give back to our wonderful community this Christmas.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Kenny+Klaus/Videos/2022/ChristmasKids.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
