@@ -10,7 +10,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/leasepurchasetn.jpg
-youtube_code: v=c61r_2iYRuU&t=663s
+youtube_code: c61r_2iYRuU&t
 hidden: false
 ---
 {% include youtube.html %}
