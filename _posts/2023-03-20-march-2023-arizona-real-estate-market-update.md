@@ -41,4 +41,4 @@ Market Balance 21:12
 
 10 Year Treasury Yield 25:04
 
-If you have any questions about the topics discussed int this video, you can always reach out to us for a conversation. We look forward to hearing from you.
+If you have any questions about the topics discussed in this video, you can always reach out to us for a conversation. We look forward to hearing from you.
