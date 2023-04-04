@@ -10,7 +10,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/dreamofhomeownership.jpg
-youtube_code: '-MqjDL9PTFQ'
+youtube_code: ATdSEQRLr2s
 hidden: false
 ---
 {% include youtube.html %}
