@@ -2,7 +2,6 @@
 layout: post
 title: 'These 5 Updates Could Decrease Your Home''s Value!!! '
 date: 2023-08-07 05:00:00
-tags:
 excerpt:
 enclosure:
 pullquote:
