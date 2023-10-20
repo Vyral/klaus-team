@@ -18,6 +18,4 @@ hidden: false
 ---
 {% include youtube.html %}
 
-{% include excerpt.html %}
-
 Join real estate and home finance experts Steve Farrington, Kraig Klaus, and Scott Kooiman for the October Market Update on the State 48 Homeowner podcast. In this episode, the team discusses the impact of rising interest rates on the real estate market, provides insights on market trends, and offers valuable tips for both sellers and buyers in today's dynamic real estate landscape.
