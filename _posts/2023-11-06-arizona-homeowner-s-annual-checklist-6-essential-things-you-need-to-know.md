@@ -14,4 +14,4 @@ hidden: false
 ---
 {% include youtube.html %}
 
-Join us for a special episode of the State 48 Homeowner Podcast as we discuss the six crucial annual maintenance tasks every Arizona homeowner should prioritize. From AC unit care to roof inspections, pest control, and more, our guest expert, Paul Stratton from Stratton Inspections, shares valuable insights to help you keep your<br>Arizona home in tip-top shape. Don't miss out on these essential tips to ensure your home thrives in the unique Arizona climate!<br>
+Join us for a special episode of the State 48 Homeowner Podcast as we discuss the six crucial annual maintenance tasks every Arizona homeowner should prioritize. From AC unit care to roof inspections, pest control, and more, our guest expert, Paul Stratton from Stratton Inspections, shares valuable insights to help you keep your Arizona home in tip-top shape. Don't miss out on these essential tips to ensure your home thrives in the unique Arizona climate!<br>
