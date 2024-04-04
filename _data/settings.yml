@@ -17,7 +17,7 @@ client:
   name: Kenny Klaus
   title:
   license_number:
-  about_markdown: >
+  about_markdown: >-
     The Kenny Klaus Team is one of the most successful real estate teams in
     America. Since 2010, The Kenny Klaus Team has been consistently ranked in
     the Top 120 teams nationwide by Real Trends and the Wall Street Journal. The
@@ -29,8 +29,8 @@ client:
     coordinators, and with a lender and a title company on-site, The Kenny Klaus
     Team is your one-stop shop for real estate.
   market: East Valley
-  brand: The Kenny Klaus Team
-  brokerage: Keller Williams
+  brand: Klaus Team Real Estate Solutions
+  brokerage: Real Broker
   address: 2919 S Ellsworth Rd 133 Mesa, Arizona
   phone: 480-354-7344
   phone_type:
