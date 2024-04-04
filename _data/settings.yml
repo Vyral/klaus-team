@@ -62,7 +62,7 @@ lender:
   header_text: Featured Lender
   headshot_path: /img/b93ae50d0009767ad4e2b2f1-408x510.jpg
   logo_path: /img/lenderlogo.png
-  logo_path_2: 
+  logo_path_2:
   name: Steve Farrington
   license_number: 'NMLS #61852, Company NMLS #3029'
   phone: (480) 215-5590
@@ -111,7 +111,7 @@ images:
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
 site_colors:
-  brand_color: '#d20000'
+  brand_color: '#2cc0f0'
   theme_color: '#000000'
   theme_text_color: '#5d9bd3'
   main_body_color: '#ffffff'
