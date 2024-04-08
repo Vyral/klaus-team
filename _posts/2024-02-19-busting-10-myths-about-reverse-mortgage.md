@@ -2,7 +2,10 @@
 layout: post
 title: Busting 10 Myths about Reverse Mortgage
 date: 2024-02-19 05:00:00
-excerpt:
+excerpt: >-
+  In this episode, Scott Kooiman chats with Steve Farrington from Unity Home
+  Loans, debunking myths and shedding light on the true workings of reverse
+  mortgages. 
 enclosure:
 pullquote:
 enclosure_type: video/mp4
