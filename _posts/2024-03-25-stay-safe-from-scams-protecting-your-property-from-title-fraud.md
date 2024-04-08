@@ -2,7 +2,9 @@
 layout: post
 title: 'Stay Safe From Scams: Protecting Your Property from Title Fraud'
 date: 2024-03-25 02:00:00
-excerpt:
+excerpt: >-
+  In this episode of State 48 Homeowner, we dive deep into the alarming rise of
+  title fraud in Arizona with guest Alysia Moore from Fidelity National Title. 
 enclosure:
 pullquote:
 enclosure_type: video/mp4
