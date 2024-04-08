@@ -2,7 +2,9 @@
 layout: post
 title: 'The Power of Generosity '
 date: 2023-12-04 05:00:00
-excerpt:
+excerpt: >-
+  Join Scott Kooiman and Kenny Klaus on the State 48 Homeowner podcast as they
+  delve into the profound impact of generosity on our lives and households.
 enclosure:
 pullquote:
 enclosure_type: video/mp4
