@@ -2,7 +2,9 @@
 layout: post
 title: 'New Year, New Home: Your Resolution to Own a Home in Arizona'
 date: 2024-01-03 05:00:00
-excerpt:
+excerpt: >-
+  As we step into the New Year, many of us have resolutions and goals, and one
+  of the most common dreams is to own a home.
 enclosure:
 pullquote:
 enclosure_type: video/mp4
