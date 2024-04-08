@@ -2,7 +2,9 @@
 layout: post
 title: Navigating the Fall 2023 Real Estate Market
 date: 2023-11-20 05:00:00
-excerpt:
+excerpt: >-
+  Join us on the State 48 Homeowner Podcast as we dive into the current real
+  estate market trends in Arizona for the fall of 2023.
 enclosure:
 pullquote:
 enclosure_type: video/mp4
