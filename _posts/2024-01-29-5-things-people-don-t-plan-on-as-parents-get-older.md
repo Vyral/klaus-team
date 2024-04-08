@@ -2,7 +2,9 @@
 layout: post
 title: 5 Things People Don't Plan On as Parents Get Older
 date: 2024-01-29 05:00:00
-excerpt:
+excerpt: >-
+  In this episode, we delve into the often overlooked aspects of caring for
+  aging parents.
 enclosure:
 pullquote:
 enclosure_type: video/mp4
@@ -24,4 +26,4 @@ Connect with the Klaus Team Silver program for personalized guidance and expert 
 
 For more real estate insights, discussions, and topics related to Arizona homeownership, visit State48Homeowner.com.
 
-[0:00](https://www.youtube.com/watch?v=wrfXzbFZ_1w&amp;t=0s){: target="" rel="nofollow"}&nbsp;- Introduction<br>[2:34](https://www.youtube.com/watch?v=wrfXzbFZ_1w&amp;t=154s){: target="" rel="nofollow"}&nbsp;- How soon will they need help?<br>[6:58](https://www.youtube.com/watch?v=wrfXzbFZ_1w&amp;t=418s){: target="" rel="nofollow"}&nbsp;- Solutions for Real Estate<br>[7:36](https://www.youtube.com/watch?v=wrfXzbFZ_1w&amp;t=456s){: target="" rel="nofollow"}&nbsp;- Who will take the Lead?<br>[11:35](https://www.youtube.com/watch?v=wrfXzbFZ_1w&amp;t=695s){: target="" rel="nofollow"}&nbsp;- Call Us First<br>[12:05](https://www.youtube.com/watch?v=wrfXzbFZ_1w&amp;t=725s){: target="" rel="nofollow"}&nbsp;- What are the Different Care Options<br>[18:58](https://www.youtube.com/watch?v=wrfXzbFZ_1w&amp;t=1138s){: target="" rel="nofollow"}&nbsp;- How will we pay for care?<br>[21:51](https://www.youtube.com/watch?v=wrfXzbFZ_1w&amp;t=1311s){: target="" rel="nofollow"}&nbsp;- How will I know when it's time for a move?
+[0:00](https://www.youtube.com/watch?v=wrfXzbFZ_1w&amp;t=0s){: target="" rel="nofollow"} - Introduction<br>[2:34](https://www.youtube.com/watch?v=wrfXzbFZ_1w&amp;t=154s){: target="" rel="nofollow"} - How soon will they need help?<br>[6:58](https://www.youtube.com/watch?v=wrfXzbFZ_1w&amp;t=418s){: target="" rel="nofollow"} - Solutions for Real Estate<br>[7:36](https://www.youtube.com/watch?v=wrfXzbFZ_1w&amp;t=456s){: target="" rel="nofollow"} - Who will take the Lead?<br>[11:35](https://www.youtube.com/watch?v=wrfXzbFZ_1w&amp;t=695s){: target="" rel="nofollow"} - Call Us First<br>[12:05](https://www.youtube.com/watch?v=wrfXzbFZ_1w&amp;t=725s){: target="" rel="nofollow"} - What are the Different Care Options<br>[18:58](https://www.youtube.com/watch?v=wrfXzbFZ_1w&amp;t=1138s){: target="" rel="nofollow"} - How will we pay for care?<br>[21:51](https://www.youtube.com/watch?v=wrfXzbFZ_1w&amp;t=1311s){: target="" rel="nofollow"} - How will I know when it's time for a move?
