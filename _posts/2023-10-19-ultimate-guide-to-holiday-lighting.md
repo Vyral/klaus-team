@@ -2,7 +2,9 @@
 layout: post
 title: Ultimate Guide to Holiday Lighting
 date: 2023-10-19 05:00:00
-excerpt:
+excerpt: >-
+  Welcome to the State 48 Homeowner Podcast. In this episode, we explore the
+  world of holiday lighting beyond just Christmas. 
 enclosure:
 pullquote:
 enclosure_type: video/mp4
