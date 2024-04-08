@@ -2,7 +2,10 @@
 layout: post
 title: 'Arizona Homeowner’s Annual Checklist: 6 Essential Things You Need to Know'
 date: 2023-11-06 05:00:00
-excerpt:
+excerpt: >-
+  Join us for a special episode of the State 48 Homeowner Podcast as we discuss
+  the six crucial annual maintenance tasks every Arizona homeowner should
+  prioritize. 
 enclosure:
 pullquote:
 enclosure_type: video/mp4
