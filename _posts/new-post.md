@@ -2,7 +2,7 @@
 layout: post
 title: What if Interest Rates Fell Quickly?
 date: 2024-04-22 05:00:00
-excerpt:
+excerpt: The intriguing but unlikely scenario of a rapid decline in interest rates.
 enclosure:
 pullquote:
 enclosure_type: video/mp4
