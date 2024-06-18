@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'How Much Home Loan Can I Afford by Salary (2024) '
+title: How Much Home Can I Afford by (Salary)
 date: 2024-06-14 05:00:00
 excerpt: ' In this episode, Real Estate Broker Scott Kooiman and Steve Farrington from Unity Home Loans tackle the crucial question: "How much home loan can I afford by salary in Arizona?"'
 enclosure:
