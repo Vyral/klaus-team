@@ -2,7 +2,10 @@
 layout: post
 title: How Do I Know if I Have Termites?
 date: 2024-07-08 05:00:00
-excerpt:
+excerpt: >-
+  Welcome to another episode of the State 48 Homeowner podcast, where today
+  we're diving deep into a common Arizona homeowner's concern: How do I know if
+  I have termites?
 enclosure:
 pullquote:
 enclosure_type: video/mp4
