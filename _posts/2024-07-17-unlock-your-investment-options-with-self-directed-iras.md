@@ -14,7 +14,7 @@ hidden: false
 ---
 {% include youtube.html %}
 
-Welcome to the State 48 Homeowner podcast! In this episode, we're thrilled to have JP Dahdah, CEO of Vantage IRA, discussing the untapped potential of self-directed IRAs. Discover how you can leverage your retirement funds to invest beyond the stock market, and unlock new investment opportunities.
+In this episode of the State 48 Homeowner Podcast, we're thrilled to have JP Dahdah, CEO of Vantage IRA, discussing the untapped potential of self-directed IRAs. Discover how you can leverage your retirement funds to invest beyond the stock market, and unlock new investment opportunities. One of our Klaus Team members also shares how he started his real estate portfolio by combining his different investment accounts into one self-directed IRA to purchase a real estate rental property.
 
 JP Dahdah breaks down the essentials of self-directed IRAs, explaining how they offer greater flexibility and control over your investment choices. Learn the types of investments you can make, from real estate to private lending, and gain insights on how to diversify your retirement portfolio effectively.
 
