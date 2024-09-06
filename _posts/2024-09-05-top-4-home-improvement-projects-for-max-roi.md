@@ -2,7 +2,9 @@
 layout: post
 title: 'Top 4 Home Improvement Projects for Max ROI '
 date: 2024-09-05 05:00:00
-excerpt:
+excerpt: >-
+  In this episode of the State 48 Homeowner podcast, we explore the top 4 home
+  improvement projects that offer the best return on investment (ROI).
 enclosure:
 pullquote:
 enclosure_type: video/mp4
