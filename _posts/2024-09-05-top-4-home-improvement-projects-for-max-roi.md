@@ -16,7 +16,7 @@ hidden: false
 ---
 {% include youtube.html %}
 
-In this episode of the State 48 Homeowner podcast, we explore the top 4 home improvement projects that offer the best return on investment (ROI). Whether you’re prepping your home for sale or simply enhancing your living space, our guest Nat Stout shares expert tips on upgrades that can dramatically increase your home’s value. From refreshing your kitchen to creating an inviting outdoor space, you’ll learn which projects are worth the time and money. Plus, we’ll give you 4 easy DIY projects that anyone can tackle to boost their home’s appeal.
+In this episode of the State 48 Homeowner podcast, we explore the top 4 home improvement projects that offer the best return on investment (ROI). Whether you're prepping your home for sale or simply enhancing your living space, we talk about upgrades that can dramatically increase your home's value. From refreshing your kitchen to creating an inviting outdoor space, you'll learn which projects are worth the time and money. Plus, we’ll give you 4 easy DIY projects that anyone can tackle to boost their home's appeal.
 
 **Join us as we break down:**
 
