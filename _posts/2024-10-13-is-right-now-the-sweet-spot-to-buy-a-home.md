@@ -10,7 +10,7 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image: /uploads/klaus-market-october-24-yt.jpg
+youtube_alternate_image: /uploads/e167fb.jpg
 youtube_code: geH-EFaheMI
 hidden: false
 ---
