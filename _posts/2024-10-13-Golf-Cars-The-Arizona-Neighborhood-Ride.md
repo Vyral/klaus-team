@@ -14,7 +14,7 @@ hidden: false
 ---
 {% include youtube.html %}
 
-In this episode of the State 48 Homeowner Podcast, we explore the growing trend of golf cars in Arizona communities. Golf cars have become a popular mode of transportation beyond the golf course, with more people using them in neighborhoods like Adora Trails, Eastmark, Sunland Village East, and Morrison Ranch. Whether you're considering buying one for daily use or for fun, this video covers everything you need to know!
+In this episode of the State 48 Homeowner Podcast, we explore the growing trend of golf cars in Arizona communities. Golf cars have become a popular mode of transportation beyond the golf course, with more people using them in neighborhoods like Adora Trails, Eastmark, Sunland Village East, and Morrison Ranch. Whether you’re considering buying one for daily use or for fun, this video covers everything you need to know!
 
 Join host Scott Kooiman as he chats with special guests Todd Crouch, owner of Custom Golf Cars, and Rich Milburn from the Klaus Team. We discuss the pros and cons of owning a golf car, essential maintenance tips, and etiquette rules for golf car drivers. Plus, we dive into three important things to consider before buying a golf car, so you can make the best decision for your lifestyle.
 
@@ -40,9 +40,9 @@ Join host Scott Kooiman as he chats with special guests Todd Crouch, owner of Cu
 
 22:52  3. For Used, Use Your Due Diligence
 
-From fun community parades to practical use around the neighborhood, golf cars are becoming a big part of the Arizona lifestyle. Watch until the end for tips on how to pick the right golf car for you and ensure it's well-maintained and road-ready!
+From fun community parades to practical use around the neighborhood, golf cars are becoming a big part of the Arizona lifestyle. Watch until the end for tips on how to pick the right golf car for you and ensure it’s well-maintained and road-ready!
 
-**What You'll Learn:**
+**What You’ll Learn:**
 
 · Why golf cars are becoming more popular in Arizona neighborhoods.
 
@@ -62,4 +62,4 @@ From fun community parades to practical use around the neighborhood, golf cars a
 
 · Safety: Follow proper etiquette and local regulations to keep yourself and others safe on the road.
 
-· Buying Tips: Get expert advice on choosing the right golf car and dealer, especially if you're buying pre-owned.
+· Buying Tips: Get expert advice on choosing the right golf car and dealer, especially if you’re buying pre-owned.
