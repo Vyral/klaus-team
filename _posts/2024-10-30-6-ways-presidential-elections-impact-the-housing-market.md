@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 6 Ways Presidential Elections Impact the Housing Market
+title: 5 DAYS AWAY!!! - 6 Ways Presidential Elections Impact the Housing Market
 date: 2024-10-30 08:00:00
 excerpt:
 enclosure:
