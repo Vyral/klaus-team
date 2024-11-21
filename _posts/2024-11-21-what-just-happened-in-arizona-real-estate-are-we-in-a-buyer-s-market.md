@@ -8,7 +8,7 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/e172fb.jpg
+youtube_alternate_image: /uploads/e172vyral.jpg
 youtube_code: RJf8pVqAJJk
 hidden: false
 ---
