@@ -13,6 +13,8 @@ custom_links:
     url: ' https://www.klausteam.com/agents/'
   - title: Recommended Vendors
     url: https://www.klausteam.com/recommended-vendors/
+  - title: Real Estate News
+    url: https://www.klausteam.com/blog/
 client:
   name: Kenny Klaus
   title:
