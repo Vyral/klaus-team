@@ -42,7 +42,7 @@ client:
   url: https://klausteam.com
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: https://kennysgottheoffers.com/valuation/
+  first_CTA_URL: ' https://consumer.hifello.com/lp/64c7bebdc74d4f0025386b4b'
   second_CTA_text: Home Search
   second_CTA_URL: https://www.klausteam.com/
 sidebar_CTA:
@@ -52,7 +52,7 @@ sidebar_CTA:
       Are you thinking of selling your home or interested in learning about home
       prices in your neighborhood? We can help you.
     CTA_link_text: Free Home Value Report
-    CTA_url: https://kennysgottheoffers.com/valuation/
+    CTA_url: ' https://consumer.hifello.com/lp/64c7bebdc74d4f0025386b4b'
 second_sidebar_CTA:
   - CTA_image_path2: /img/cta-images/005.jpg
     CTA_title2: Looking for a East Valley Home?
