@@ -11,8 +11,6 @@ show_custom_links: true
 custom_links:
   - title: Meet Our Team
     url: ' https://www.klausteam.com/agents/'
-  - title: Events
-    url: /events/
 client:
   name: Kenny Klaus
   title:
