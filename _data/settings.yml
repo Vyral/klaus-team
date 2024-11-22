@@ -11,6 +11,8 @@ show_custom_links: true
 custom_links:
   - title: Meet Our Team
     url: ' https://www.klausteam.com/agents/'
+  - title: Recommended Vendors
+    url: https://www.klausteam.com/recommended-vendors/
 client:
   name: Kenny Klaus
   title:
