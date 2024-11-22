@@ -10,7 +10,7 @@ description: >-
 show_custom_links: true
 custom_links:
   - title: Meet Our Team
-    url: /meet-our-team/
+    url: ' https://www.klausteam.com/agents/'
   - title: Events
     url: /events/
 client:
