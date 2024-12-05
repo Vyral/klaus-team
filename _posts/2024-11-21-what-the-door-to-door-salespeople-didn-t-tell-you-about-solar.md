@@ -21,11 +21,11 @@ Curious about solar energy? Before you jump in, watch this video to get a full u
 
 **What You’ll Learn in This Video:**
 
-• Avoiding Sales Pressure: Learn why high-pressure sales tactics are a red flag in the solar industry and why it's essential to take your time before committing.
+• Avoiding Sales Pressure: Learn why high-pressure sales tactics are a red flag in the solar industry and why it’s essential to take your time before committing.
 
 • True Costs of Solar: Get a clear look at solar financing and leasing—how it affects your home’s potential buyers when you’re ready to sell.
 
-• Roofing & Maintenance Considerations: Discover what adding solar panels means for your roof's lifespan and maintenance, including the hidden costs when repairs are needed.
+• Roofing & Maintenance Considerations: Discover what adding solar panels means for your roof’s lifespan and maintenance, including the hidden costs when repairs are needed.
 
 • Arizona-Specific Advice: Understand the impact of utility providers (like SRP and APS), local tax credits, and incentives that could make or break your decision.
 
