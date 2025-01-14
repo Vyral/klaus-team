@@ -32,6 +32,6 @@ Join host Scott Kooiman and a panel of real estate experts, including Kraig Klau
 
 **Everyone:** Work with an experienced local agent to navigate a market that varies by neighborhood, property type, and price point.
 
-Whether you're planning to move or simply staying informed, this video is packed with insights to help you make smarter decisions in 2025.
+Whether you’re planning to move or simply staying informed, this video is packed with insights to help you make smarter decisions in 2025.
 
 📌 Don’t forget to like, comment, and subscribe! Share your biggest questions about the Arizona real estate market below—we’d love to hear from you!
