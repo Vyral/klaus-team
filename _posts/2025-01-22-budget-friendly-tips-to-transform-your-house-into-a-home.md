@@ -19,7 +19,7 @@ hidden: false
 ---
 {% include youtube.html %}
 
-🏠 Transform your house into a home without breaking the bank! In this episode of the State 48 Homeowner Podcast, we share practical and budget-friendly tips to help Arizona homeowners create a space they truly love. Whether you're looking to refresh your décor, make small changes with a big impact, or define your personal style, we’ve got you covered!
+🏠 Transform your house into a home without breaking the bank! In this episode of the State 48 Homeowner Podcast, we share practical and budget-friendly tips to help Arizona homeowners create a space they truly love. Whether you’re looking to refresh your décor, make small changes with a big impact, or define your personal style, we’ve got you covered!
 
 ✨ What You’ll Learn:
 
