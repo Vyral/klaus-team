@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Natural Gas and Carbon Monoxide Safety – What You Need to Know
+title: What You Need to Know About Carbon Monoxide and Natural Gas Safety
 date: 2025-02-21 05:00:00
 excerpt:
 enclosure:
