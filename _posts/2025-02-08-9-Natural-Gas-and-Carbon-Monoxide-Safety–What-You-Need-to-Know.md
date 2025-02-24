@@ -8,7 +8,7 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image: /uploads/y7ig1zpabb4-hd.jpg
+youtube_alternate_image: /uploads/klaus-team.jpg
 youtube_code: y7Ig1zpAbb4
 hidden: false
 ---
